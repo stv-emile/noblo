@@ -1,2 +1,6 @@
 # noblo is an edge computer vision system.
-I'm still thinking about which problem it will be focused on.
+Use ONNX to convert a RandomForest model from skelarn class in pickle format to an onnx format.
+This is important know the tools to put our future model into edge devices.
+
+link to have an overview of model2.onnx
+[neutron](https://netron.app)
